@@ -9,6 +9,7 @@ const EventCard = (props) => {
                 <p>{props.date}</p>
                 <p>{props.time}</p>
                 <p>{props.location}</p>
+                <button className="event-button">Sign Up</button>
             </div>
         </td>
     );

@@ -8,7 +8,7 @@ const Cards = () => {
                 <tbody>
                     <tr>
                         <EventCard event="Assistance For Homeless Veterans" location="Lilburn, GA" date="June 16, 2025" time="11:00AM - 3:00PM" image="	https://cdn.goldenvolunteer.com/images-prod/2bec748a4fb0e85d60b3b5bb19d55f39_md.JPG" />
-                        <EventCard event="Reflections of Trinity Food Pantry Weekly Grocery Prep 2025" location="Powder Springs, GA" date="June 9, 2025" time="10:00AM - 2:00PM" image="https://cdn.goldenvolunteer.com/images-prod/ba54e6ae1cde6d37383d4eaa51b5dcb7_md.JPG" />
+                        <EventCard event="Food Pantry Weekly Grocery Prep 2025" location="Powder Springs, GA" date="June 9, 2025" time="10:00AM - 2:00PM" image="https://cdn.goldenvolunteer.com/images-prod/ba54e6ae1cde6d37383d4eaa51b5dcb7_md.JPG" />
                         <EventCard event="City Bridges Pantry Food Distributions" location="Fairburn, GA" date="June 14, 2025" time="1:30PM - 4:00PM" image="https://cdn.goldenvolunteer.com/images-prod/3da19129b18b5b3e316151c6bb5b7803_md.jpeg" />
                         <EventCard event="Springbrook Park Beautification" location="Decatur, GA" date="June 12, 2025" time="9:00AM - 11:00AM" image="	https://cdn.goldenvolunteer.com/images-prod/8b1bf7c4e226ad8816eafc15b0d2eb61_md.jpeg" />
                     </tr>
