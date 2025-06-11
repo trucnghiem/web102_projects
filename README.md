@@ -1,10 +1,10 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Truc Nghiem
 
-This web app: **insert description**
+This web app: A community board that showcases opportunities to help the Atlanta community!
 
-Time spent: **X** hours spent in total
+Time spent: 15 hours spent in total
 
 ## Required Features
 
