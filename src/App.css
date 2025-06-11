@@ -1,0 +1,64 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0; 
+  padding: 0;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  min-height: 100vh;
+  background-color: #9ed19e;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 20px;
+  font-style: normal;
+  margin-bottom: 2rem;
+}
+
+.event-table-container {
+  padding: 20px;
+}
+
+.event-table {
+  width: 100%;
+  border-spacing: 20px;
+}
+
+.event-td {
+  padding: 10px;
+}
+
+.event-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  width: 300px;
+  height: auto;
+  text-align: center;
+  background-color: #fff;
+  border-color: black;
+}
+
+.event-card img {
+  width: 100%;
+  height: 200px;        /* Set the height you want */
+  object-fit: cover;    /* Crop the image to fill the space */
+  border-radius: 4px;
+}
+
+.event-card h3 {
+  margin: 0.5rem 0 0.25rem 0;
+  font-size: 1rem;
+}
+
+.event-card p {
+  margin: 0.25rem 0;
+  font-size: 0.9rem;
+}
