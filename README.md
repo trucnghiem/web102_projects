@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-=======
 # Web Development Project 1 - Community Board
 
 Submitted by: Truc Nghiem
 
 This web app is a community board that showcases opportunities to help the Atlanta community!
 
-Time spent: 15 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -22,10 +20,10 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-  - [ ] All cards have buttons or links in addition to text
-- [ ] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
+- [X] Buttons or links to a related resources are on each card component
+  - [X] All cards have buttons or links in addition to text
+- [X] The site is responsive for both desktop and mobile formats
+  - [X] Web app is shown in a mobile format
 
 The following **additional** features are implemented:
 
