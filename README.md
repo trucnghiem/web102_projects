@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Community Board
 
 Submitted by: Truc Nghiem
 
-This web app: A community board that showcases opportunities to help the Atlanta community!
+This web app is a community board that showcases opportunities to help the Atlanta community!
 
 Time spent: 15 hours spent in total
 
